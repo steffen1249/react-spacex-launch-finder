@@ -1,0 +1,9 @@
+.filter__control {
+  margin-right: 0 !important;
+  padding: 0 16px;
+  width: 100%;
+}
+
+.filter__menu-item {
+  padding: 0 !important;
+}
